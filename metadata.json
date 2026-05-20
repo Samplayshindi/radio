@@ -1,0 +1,6 @@
+{
+  "name": "Radio Lofi Archive",
+  "description": "A forgotten emotional archive for Radio Lofi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
